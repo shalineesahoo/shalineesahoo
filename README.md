@@ -1,23 +1,39 @@
 <h1 align="center">Hi 👋, I'm Shalinee Sahoo</h1>
-<h3 align="center">Welcome To My Github Profile.</h3>
-<img align ="top" alt="data" width="1000" height="300" src="https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png">
-A data-driven professional with a foundation in software engineering and an unwavering enthusiasm for data analysis. With a year of experience as a Software Engineer Trainee under my belt, I've embarked on a journey to harness the power of data for informed decision-making.During my tenure as a trainee, I immersed myself in the world of software development, problem-solving, and collaborating across multifaceted teams. This experience provided me with a solid technical base, which I now channel into my pursuit of data analytics.I'm passionate about transforming raw data into actionable insights, leveraging my skills in SQL,Excel,Python and data visualization to decipher complex datasets. My mission is to unravel hidden patterns and trends that drive intelligent choices.With a commitment to lifelong learning, I'm actively enhancing my data analysis expertise to stay ahead of industry trends. My ultimate goal is to use data to effect positive change, whether it's optimizing processes, improviguser experiences, or making strategic recommendations.
+<h3 align="center">Business Analyst | Data Analyst | SQL | Power BI | Excel | Fintech Analytics</h3>
+
+<img align="top" alt="data" width="1000" height="300" src="https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png">
+
+Result-oriented Analyst with 2.6+ years of experience in transforming data into actionable insights that fuel growth, engagement, and retention. Skilled in App Store Optimization (ASO), data visualization, and business intelligence, I help products scale through data-driven strategies. Currently working as a **Client Analytics Specialist (Business Reporting Analyst)**, where I deliver insights, dashboards, and reporting solutions that drive measurable business outcomes and support stakeholder decision-making.
+
+Over the past few years, I’ve:  
+- Delivered **30% growth in organic downloads** and **15% boost in retention** for fintech apps through ASO and analytics.  
+- Built **SQL-driven Power BI dashboards** that helped stakeholders track installs, churn, and user behavior trends.  
+- Automated **Excel reporting workflows**, reducing manual effort by 40%.  
+- Collaborated with cross-functional teams (product, marketing, sales) to align decisions with data insights.  
+
+I’m passionate about **data storytelling, process automation, and problem-solving**, and I enjoy bridging the gap between **business goals and technical solutions**.  
+
+---
 
 # 💫 About Me:
-👀 I’m interested in Data Analytics & Business Intelligence<br>💞️ I’m looking to collaborate on data analysis projects<br>
+👀 Interested in Data Analytics, Business Intelligence, and Product Analytics <br>  
+💡 Skilled at SQL, retention analysis, reporting automation, and dashboarding <br>  
+💞️ Open to collaborate on data analytics and BI projects <br>  
+🚀 Actively upskilling in Python & advanced BI tools <br>  
 
-# 💻 Skills: 
-* Power BI
-* SQL
-* Excel
-* Python
-* Data analysis
-* Business analysis 
+---
 
-# Links:
+# 💻 Skills:
+* **SQL** (CTEs, Window Functions, Query Optimization)  
+* **Power BI** (Dashboards, DAX, Power Query)  
+* **Excel** (Pivot, VBA, Macros, Automation)  
+* **Python** (Pandas, NumPy, Matplotlib basics)  
+* **Data Analysis & Reporting**  
+* **Business Analysis & Stakeholder Management**  
+* **App Store Optimization (ASO)**  
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/shalinee_sahoo?utm_source=linktree_admin_share](https://linktr.ee/shalinee_sahoo?utm_source=linktree_admin_share)
+---
 
-- 📫 How to reach me **shalineesahoo24@gmail.com**
-
-
+# 🔗 Links:
+- 👨‍💻 All of my projects are available at [Linktree](https://linktr.ee/shalinee_sahoo?utm_source=linktree_admin_share)  
+- 📫 Reach me at **shalineesahoo24@gmail.com**  
